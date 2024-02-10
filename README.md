@@ -1,2 +1,2 @@
-# kind
-Repository to deploy a local kind cluster and tear it back down
+# Deploy and Teardown a local KinD kubernetest cluster
+
