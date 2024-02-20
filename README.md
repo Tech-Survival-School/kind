@@ -11,5 +11,5 @@ This is the home (main) branch.  Please be sure the following are installed unde
 5. python3
 
 ## Select your Deployment Shell
-1. [BASH](https://github.com/Kong/kong-ref-kic-gateway-kind/tree/bash)
-2. [Powershell](https://github.com/Kong/kong-ref-kic-gateway-kind/tree/powershell)
+1. [BASH](https://github.com/Tech-Survival-School/kind/tree/bash)
+2. [Powershell](https://github.com/Tech-Survival-School/kind/tree/powershell)
