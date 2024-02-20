@@ -1,0 +1,12 @@
+prometheus:
+  service:
+    type: NodePort
+    nodePort: 30006
+  prometheusSpec:
+    serviceMonitorSelectorNilUsesHelmValues: false
+grafana:
+  service:
+    type: NodePort
+    port: 80
+    targetPort: 3000
+    nodePort: 30005
