@@ -1,0 +1,6 @@
+.vscode
+.rnd
+.DS_Store
+.cache/
+.config/
+.kube/
