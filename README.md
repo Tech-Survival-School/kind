@@ -12,6 +12,16 @@ This is the home (main) branch.  Please be sure the following are installed unde
 4. helm 
 5. python3
 
-## Select your Deployment Shell
-1. [BASH](https://github.com/Tech-Survival-School/kind/tree/bash)
-2. [Powershell](https://github.com/Tech-Survival-School/kind/tree/powershell)
+## Clone Repo and Deploy
+```powershell
+Set-Location $env:USERPROFILE
+git clone https://github.com/Tech-Survival-School/kind.git
+Set-Location .\kind
+git checkout powershell
+.\redeploy.ps1
+```
+
+## Teardown
+```powershell
+.\scripts\teardown.ps1
+```
