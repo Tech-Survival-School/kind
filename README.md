@@ -1,7 +1,6 @@
 # Deploy and Teardown a local KinD kubernetes cluster
-This is the home (main) branch.  Please be sure the following are installed under Requirements and select a deployment shell. \
-\
 [<img alt="KinD" width="25%" src="/images/kind-logo.png" />](https://kind.sigs.k8s.io/)
+This is the home (main) branch.  Please be sure the following are installed under Requirements and select a deployment shell. \
 \
 [<img alt="Diagram" width="75%" src="/images/KinD.png" />]
 
