@@ -1,9 +1,10 @@
 # Deploy and Teardown a local KinD kubernetes cluster
 This is the home (main) branch.  Please be sure the following are installed under Requirements and select a deployment shell. \
 \
-[![TSS KinD Video](http://img.youtube.com/vi/wufvujgNeAY/0.jpg)](https://youtu.be/wufvujgNeAY "TSS: Local KinD K8s Cluster")
-\
 [<img alt="KinD" width="25%" src="/images/kind-logo.png" />](https://kind.sigs.k8s.io/)
+
+## Video
+[![TSS KinD Video](http://img.youtube.com/vi/wufvujgNeAY/0.jpg)](https://youtu.be/wufvujgNeAY "TSS: Local KinD K8s Cluster")
 
 ## Requirements
 1. kind
