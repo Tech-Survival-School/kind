@@ -10,6 +10,9 @@ This is the home (main) branch.  Please be sure the following are installed unde
 4. helm 
 5. python3
 
+## Video
+[![TSS KinD Video](http://img.youtube.com/vi/wufvujgNeAY/0.jpg)](https://youtu.be/wufvujgNeAY "TSS: Local KinD K8s Cluster")
+
 ## Clone Repo and Deploy
 ```bash
 cd $HOME
