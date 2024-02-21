@@ -11,6 +11,9 @@ This is the home (main) branch.  Please be sure the following are installed unde
 4. helm 
 5. python3
 
+## Video
+[![TSS KinD Video](http://img.youtube.com/vi/wufvujgNeAY/0.jpg)](https://youtu.be/wufvujgNeAY "TSS: Local KinD K8s Cluster")
+
 ## Select your Deployment Shell
 1. [BASH](https://github.com/Tech-Survival-School/kind/tree/bash)
 2. [Powershell](https://github.com/Tech-Survival-School/kind/tree/powershell)
