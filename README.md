@@ -3,7 +3,7 @@ This is the home (main) branch.  Please be sure the following are installed unde
 \
 [<img alt="KinD" width="25%" src="/images/kind-logo.png" />](https://kind.sigs.k8s.io/)
 \
-[<img alt="Diagram" width="50%" src="/images/KinD.png" />]
+[<img alt="Diagram" width="75%" src="/images/KinD.png" />]
 
 ## Requirements
 1. kind
