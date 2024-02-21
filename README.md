@@ -2,6 +2,8 @@
 This is the home (main) branch.  Please be sure the following are installed under Requirements and select a deployment shell. \
 \
 [<img alt="KinD" width="25%" src="/images/kind-logo.png" />](https://kind.sigs.k8s.io/)
+\
+[<img alt="Diagram" width="50%" src="/images/KinD.png" />]
 
 ## Requirements
 1. kind
