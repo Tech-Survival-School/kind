@@ -4,3 +4,5 @@
 .cache/
 .config/
 .kube/
+tls.crt
+tls.key
